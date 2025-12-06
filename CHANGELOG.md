@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2025-12-06)
+
+
+### Features
+
+* cleanup ([09d0059](https://github.com/voidresort/bad-words-next/commit/09d00591f51a293c05ace4a68c938e5f02270267))
+
 ## 3.2.0 (2025-12-06)
 
 
