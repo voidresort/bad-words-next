@@ -3,8 +3,8 @@ import moize from 'moize'
 
 /**
  * @license bad-words-next
- * Copyright (c) 2022, Alex Zelensky. (MIT License)
- * https://github.com/alexzel/bad-words-next
+ * Copyright (c) 2022, Void Resort. (MIT License)
+ * https://github.com/voidresort/bad-words-next
  */
 
 function escapeRegexpWord (word: string): string {

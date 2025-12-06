@@ -53,7 +53,7 @@ jobs:
       - name: Wiki checkout
         uses: actions/checkout@v3
         with:
-          repository: "alexzel/bad-words-next.wiki"
+          repository: "voidresort/bad-words-next.wiki"
           path: bad-words-next.wiki
         if: ${{ steps.release.outputs.release_created }}
 

@@ -4,7 +4,7 @@ You are welcome to contribute!
 
 ## Issue
 
-Whether you have found a bug or want to request a feature please [open an issue](https://github.com/alexzel/bad-words-next/issues/new/choose).
+Whether you have found a bug or want to request a feature please [open an issue](https://github.com/voidresort/bad-words-next/issues/new/choose).
 
 
 ## Pull request

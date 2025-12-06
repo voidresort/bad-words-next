@@ -13,9 +13,9 @@
     "detect",
     "sanitize"
   ],
-  "repository": "https://github.com/alexzel/bad-words-next",
-  "homepage": "https://github.com/alexzel/bad-words-next/wiki",
-  "author": "Alex Zelensky",
+  "repository": "https://github.com/voidresort/bad-words-next",
+  "homepage": "https://github.com/voidresort/bad-words-next/wiki",
+  "author": "Void Resort",
   "license": "MIT",
   "scripts": {
     "build": "rollup -c",
